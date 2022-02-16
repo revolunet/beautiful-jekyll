@@ -9,7 +9,7 @@ author: Victor Talay
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  ABOUT: "DJ-VX/aboutme.md"
+  ABOUT: "https://mobilohm.github.io/about"
   EVENTS: "http://www.facebook.com/DJ-VX-100539732094030"
   MIX: "http://hearthis.at/djvx/"
 
