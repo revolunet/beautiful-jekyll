@@ -9,7 +9,7 @@ author: Victor Talay
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  ABOUT: "about.md"
+  ABOUT: "/about.md"
   EVENTS:
     - Spring: "hearthis.at/djvx"
     - Summer: "hearthis.at/djvx"
