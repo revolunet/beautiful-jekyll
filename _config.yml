@@ -9,7 +9,7 @@ author: Victor Talay
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  ABOUT: "http://www.dj-vx.com/aboutme.md"
+  ABOUT: "/aboutme.md"
   EVENTS: "http://www.facebook.com/DJ-VX-100539732094030"
   MIX: "http://hearthis.at/djvx/"
 
