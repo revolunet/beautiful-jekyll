@@ -9,12 +9,12 @@ author: Victor Talay
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  ABOUT: "http://dj-vx.com/aboutme.md"
+  ABOUT: "http://www.dj-vx.com/aboutme.md"
   EVENTS: "http://www.facebook.com/DJ-VX-100539732094030"
   MIX: "http://hearthis.at/djvx/"
 
 # --- Logo --- #
-
+www
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/assets/img/avatar-icon.png"
