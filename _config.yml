@@ -10,10 +10,10 @@ author: Victor Talay
 
 navbar-links:
   ABOUT: "/aboutme.md"
-  EVENTS: "https://www.facebook.com/DJ-VX-100539732094030"
-    - Past: "https://www.facebook.com/DJ-VX-100539732094030"
-    - Next: "https://www.facebook.com/DJ-VX-100539732094030"
-  MIX: "https://hearthis.at/djvx/"
+  EVENTS: "http://www.facebook.com/DJ-VX-100539732094030"
+    - Past: "http://www.facebook.com/DJ-VX-100539732094030"
+    - Next: "http://www.facebook.com/DJ-VX-100539732094030"
+  MIX: "http://hearthis.at/djvx/"
 
 # --- Logo --- #
 
