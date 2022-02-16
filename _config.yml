@@ -11,8 +11,8 @@ author: Victor Talay
 navbar-links:
   NEWS: ""
   EVENTS:
-    - Spring: "https://"
-    - Summer: "https://"
+    - Spring: "https://google.com"
+    - Summer: "https://google.com"
   MIX: "https://hearthis.at/djvx/"
 
 # --- Logo --- #
